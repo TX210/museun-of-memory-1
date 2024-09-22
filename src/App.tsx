@@ -1,24 +1,31 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { useEffect, useState } from 'react';
+import styles from './App.module.css';
+
+interface AppConfig {
+  firstName: string;
+  lastName: string;
+  iconPath: string;
+}
+
 
 function App() {
+  const [appConfig, setAppConfig] = useState<AppConfig[]>([]);
+
+  useEffect(() => {
+    fetch("/config.json")
+      .then((response) => response.json())
+      .then((data) => {setAppConfig(data)})
+      .catch((error) => console.error("Error loading config:", error));
+  }, []);
+  
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className={styles.main}>
+      <div className={styles.cardHolder}>
+        {appConfig.map((config, index) => (<div className={styles.card}>
+          <img src={config.iconPath} alt="icon" className={styles.icon} />
+          {config.firstName} {config.lastName}
+        </div>))}
+      </div>
     </div>
   );
 }

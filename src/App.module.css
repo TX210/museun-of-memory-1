@@ -1,0 +1,26 @@
+.icon {
+  height: 250px;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: lightblue;
+}
+
+.card {
+  background-color: grey;
+  margin: 25px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.cardHolder {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 1000px;
+  justify-content: center;
+  background-color: lightyellow;
+}
