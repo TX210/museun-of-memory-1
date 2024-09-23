@@ -13,7 +13,7 @@ function App() {
   const [appConfig, setAppConfig] = useState<AppConfig[]>([]);
 
   useEffect(() => {
-    fetch("/config.json")
+    fetch("/museum-of-memory/config.json")
       .then((response) => response.json())
       .then((data) => {setAppConfig(data)})
       .catch((error) => console.error("Error loading config:", error));
@@ -26,10 +26,10 @@ function App() {
     <div className="max-w-7xl mx-auto">
       <header className="text-center mb-12" data-id="5"><h1 className="text-4xl font-bold text-gray-900 mb-4" data-id="6">In Memory of Our Fallen Heroes</h1><p className="text-xl text-gray-600" data-id="7">Honoring those who made the ultimate sacrifice for our freedom and security.</p></header>
       <div className="grid  grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-        {appConfig.map(({firstName,iconPath,lastName}, index) => {
+        {appConfig.map(({firstName,iconPath,lastName}) => {
           const fullName = `${firstName} ${lastName}`;
           return (
-            <Card key={fullName} title={fullName} imgSrc={iconPath}/>
+            <Card key={fullName} title={fullName} imgSrc={"/museum-of-memory/" + iconPath}/>
       )})}
       </div>
     </div>
