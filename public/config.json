@@ -10,73 +10,93 @@
     "iconPath": "./photo/RomanDiachenko.jpg"
   },
   {
+    "firstName": "Богдан",
+    "lastName": "Корпоченко",
+    "iconPath": "./photo/BogdanKorpochenko.jpg"
+  },
+  {
+    "firstName": "Іван",
+    "lastName": "Криштоф",
+    "iconPath": "./photo/IvanKrishtof.jpg"
+  },
+  {
+    "firstName": "Максим",
+    "lastName": "Бойко",
+    "iconPath": "./photo/MaksimBoiko.jpg"
+  },
+  {
+    "firstName": "Тарас",
+    "lastName": "Каньшин",
+    "iconPath": "./photo/TarasKanshin.jpg"
+  },
+  {
+    "firstName": "Тарас",
+    "lastName": "Адамчук",
+    "iconPath": "./photo/TarasAdamchuk.jpg"
+  },
+  {
+    "firstName": "Артем",
+    "lastName": "Іванішин",
+    "iconPath": "./photo/ArtemIvanishin.jpg"
+  },
+  {
+    "firstName": "Сергій",
+    "lastName": "Жвалюк",
+    "iconPath": "./photo/Zhvaliuk.png"
+  },
+  {
+    "firstName": "Олександр",
+    "lastName": "Соя",
+    "iconPath": "./photo/OleksandrSoya.jpg"
+  },
+  {
+    "firstName": "Денис",
+    "lastName": "Кубраков",
+    "iconPath": "./photo/DenisKubarkov.jpg"
+  },
+  {
+    "firstName": "Сергій",
+    "lastName": "Коваль",
+    "iconPath": "./photo/SerghiiKoval.jpg"
+  },
+  {
+    "firstName": "Юрій",
+    "lastName": "Євенко",
+    "iconPath": "./photo/YriiEvenko.jpg"
+  },
+  {
+    "firstName": "Андрій",
+    "lastName": "Світлоокий",
+    "iconPath": "./photo/svitlookiy.jpg"
+  },
+  {
+    "firstName": "Євген",
+    "lastName": "Гуменчук",
+    "iconPath": "./photo/EvgenGumenchuk.jpg"
+  },
+  {
     "firstName": "Дмитро",
-    "lastName": "Величко",
-    "iconPath": "./photo/DmytroVelichko.jpg"
+    "lastName": "Бабій",
+    "iconPath": "./photo/DmitroBabii.jpg"
   },
   {
-    "firstName": "Роман",
-    "lastName": "Дяченко",
-    "iconPath": "./photo/RomanDiachenko.jpg"
+    "firstName": "Тетяна",
+    "lastName": "Харченко",
+    "iconPath": "./photo/TatianaHarchenko.jpg"
   },
   {
-    "firstName": "Дмитро",
-    "lastName": "Величко",
-    "iconPath": "./photo/DmytroVelichko.jpg"
+    "firstName": "Катерина",
+    "lastName": "Гула",
+    "iconPath": "./photo/KaterinaGula.jpg"
   },
   {
-    "firstName": "Роман",
-    "lastName": "Дяченко",
-    "iconPath": "./photo/RomanDiachenko.jpg"
+    "firstName": "Віктор",
+    "lastName": "Поліщук",
+    "iconPath": "./photo/ViktorPolishyk.jpg"
   },
   {
-    "firstName": "Дмитро",
-    "lastName": "Величко",
-    "iconPath": "./photo/DmytroVelichko.jpg"
-  },
-  {
-    "firstName": "Роман",
-    "lastName": "Дяченко",
-    "iconPath": "./photo/RomanDiachenko.jpg"
-  },
-  {
-    "firstName": "Дмитро",
-    "lastName": "Величко",
-    "iconPath": "./photo/DmytroVelichko.jpg"
-  },
-  {
-    "firstName": "Роман",
-    "lastName": "Дяченко",
-    "iconPath": "./photo/RomanDiachenko.jpg"
-  },
-  {
-    "firstName": "Дмитро",
-    "lastName": "Величко",
-    "iconPath": "./photo/DmytroVelichko.jpg"
-  },
-  {
-    "firstName": "Роман",
-    "lastName": "Дяченко",
-    "iconPath": "./photo/RomanDiachenko.jpg"
-  },
-  {
-    "firstName": "Дмитро",
-    "lastName": "Величко",
-    "iconPath": "./photo/DmytroVelichko.jpg"
-  },
-  {
-    "firstName": "Роман",
-    "lastName": "Дяченко",
-    "iconPath": "./photo/RomanDiachenko.jpg"
-  },
-  {
-    "firstName": "Дмитро",
-    "lastName": "Величко",
-    "iconPath": "./photo/DmytroVelichko.jpg"
-  },
-  {
-    "firstName": "Роман",
-    "lastName": "Дяченко",
-    "iconPath": "./photo/RomanDiachenko.jpg"
+    "firstName": "Іван",
+    "lastName": "Далюк",
+    "iconPath": "./photo/IvanDalyuk.jpg"
   }
 ]
