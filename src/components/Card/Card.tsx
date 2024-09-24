@@ -2,8 +2,8 @@ import { FC, memo } from 'react';
 
 type CardP = {
   title?: string
-   description?: string, 
-   imgSrc?: string
+  description?: string,
+  imgSrc?: string
 };
 
 const Card:FC<CardP> = ({title = '', description = '', imgSrc = ''}) => {

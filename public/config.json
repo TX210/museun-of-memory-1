@@ -2,101 +2,121 @@
   {
     "firstName": "Дмитро",
     "lastName": "Величко",
-    "iconPath": "./photo/DmytroVelichko.jpg"
+    "iconPath": "./photo/DmytroVelichko.jpg",
+    "description": "Випускник обліково-фінансового факультету, напрям підготовки \"Фінанси і кредит\" "
   },
   {
     "firstName": "Роман",
     "lastName": "Дяченко",
-    "iconPath": "./photo/RomanDiachenko.jpg"
+    "iconPath": "./photo/RomanDiachenko.jpg",
+    "description": "Колишній студент спеціальності \"Облік і аудит\""
   },
   {
     "firstName": "Богдан",
     "lastName": "Корпоченко",
-    "iconPath": "./photo/BogdanKorpochenko.jpg"
+    "iconPath": "./photo/BogdanKorpochenko.jpg",
+    "description": "Випускник факультету економіки, менеджменту та права, напрям підготовки \"Економіка підприємства\""
   },
   {
     "firstName": "Іван",
     "lastName": "Криштоф",
-    "iconPath": "./photo/IvanKrishtof.jpg"
+    "iconPath": "./photo/IvanKrishtof.jpg",
+    "description": "Колишній студент факультету торгівлі, маркетингу та сфери обслуговування, спеціальність \"Маркетинг\""
   },
   {
     "firstName": "Максим",
     "lastName": "Бойко",
-    "iconPath": "./photo/MaksimBoiko.jpg"
+    "iconPath": "./photo/MaksimBoiko.jpg",
+    "description": "Колишній студент факультету торгівлі, маркетингу та сфери обслуговування, спеціальність \"Маркетинг\" "
   },
   {
     "firstName": "Тарас",
     "lastName": "Каньшин",
-    "iconPath": "./photo/TarasKanshin.jpg"
+    "iconPath": "./photo/TarasKanshin.jpg",
+    "description": "Випускник факультету торгівлі, маркетингу та сфери обслуговування, спеціальність «Харчові технології»"
   },
   {
     "firstName": "Тарас",
     "lastName": "Адамчук",
-    "iconPath": "./photo/TarasAdamchuk.jpg"
+    "iconPath": "./photo/TarasAdamchuk.jpg",
+    "description": "Колишній студент спеціальності «Економіка підприємства» "
   },
   {
     "firstName": "Артем",
     "lastName": "Іванішин",
-    "iconPath": "./photo/ArtemIvanishin.jpg"
+    "iconPath": "./photo/ArtemIvanishin.jpg",
+    "description": "Студент факультету економіки, менеджменту та права, спеціальність «Менеджмент»"
   },
   {
     "firstName": "Сергій",
     "lastName": "Жвалюк",
-    "iconPath": "./photo/Zhvaliuk.png"
+    "iconPath": "./photo/Zhvaliuk.png",
+    "description": "Випускник факультету торгівлі, маркетингу та сфери обслуговування , спеціальність «Товарознавство та комерційна діяльність» "
   },
   {
     "firstName": "Олександр",
     "lastName": "Соя",
-    "iconPath": "./photo/OleksandrSoya.jpg"
+    "iconPath": "./photo/OleksandrSoya.jpg",
+    "description": "Випускник факультету економіки, менеджменту та права, спеціальність «Право»"
   },
   {
     "firstName": "Денис",
     "lastName": "Кубраков",
-    "iconPath": "./photo/DenisKubarkov.jpg"
+    "iconPath": "./photo/DenisKubarkov.jpg",
+    "description": "Випускник спеціальності «Менеджмент організацій та адміністрування»"
   },
   {
     "firstName": "Сергій",
     "lastName": "Коваль",
-    "iconPath": "./photo/SerghiiKoval.jpg"
+    "iconPath": "./photo/SerghiiKoval.jpg",
+    "description": "Випускник спеціальності «Економіка підприємства»"
   },
   {
     "firstName": "Юрій",
     "lastName": "Євенко",
-    "iconPath": "./photo/YriiEvenko.jpg"
+    "iconPath": "./photo/YriiEvenko.jpg",
+    "description": "Випускник обліково-фінансового факультету, спеціальність «Фінанси і кредит» "
   },
   {
     "firstName": "Андрій",
     "lastName": "Світлоокий",
-    "iconPath": "./photo/svitlookiy.jpg"
+    "iconPath": "./photo/svitlookiy.jpg",
+    "description": "Випускник обліково-фінансового факультету, спеціальність «Фінанси і кредит»"
   },
   {
     "firstName": "Євген",
     "lastName": "Гуменчук",
-    "iconPath": "./photo/EvgenGumenchuk.jpg"
+    "iconPath": "./photo/EvgenGumenchuk.jpg",
+    "description": "Випускник факультету торгівлі, маркетингу та сфери обслуговування, спеціальність «Маркетинг» "
   },
   {
     "firstName": "Дмитро",
     "lastName": "Бабій",
-    "iconPath": "./photo/DmitroBabii.jpg"
+    "iconPath": "./photo/DmitroBabii.jpg",
+    "description": "Випускник обліково-фінансового факультету, спеціальність «Державні фінанси»"
   },
   {
     "firstName": "Тетяна",
     "lastName": "Харченко",
-    "iconPath": "./photo/TatianaHarchenko.jpg"
+    "iconPath": "./photo/TatianaHarchenko.jpg",
+    "description": "Випускниця факультету торгівлі, маркетингу та сфери обслуговування, спеціальність «Маркетинг» "
   },
   {
     "firstName": "Катерина",
     "lastName": "Гула",
-    "iconPath": "./photo/KaterinaGula.jpg"
+    "iconPath": "./photo/KaterinaGula.jpg",
+    "description": "Випускниця факультету торгівлі, маркетингу та сфери обслуговування, спеціальність «Маркетинг»"
   },
   {
     "firstName": "Віктор",
     "lastName": "Поліщук",
-    "iconPath": "./photo/ViktorPolishyk.jpg"
+    "iconPath": "./photo/ViktorPolishyk.jpg",
+    "description": "Випускник факультету торгівлі, маркетингу та сфери обслуговування, спеціальність «Товарознавство та комерційна діяльність» "
   },
   {
     "firstName": "Іван",
     "lastName": "Далюк",
-    "iconPath": "./photo/IvanDalyuk.jpg"
+    "iconPath": "./photo/IvanDalyuk.jpg",
+    "description": "Випускник факультету торгівлі, маркетингу та сфери обслуговування, спеціальність «Харчові технології»"
   }
 ]

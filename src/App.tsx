@@ -5,6 +5,7 @@ interface AppConfig {
   firstName: string;
   lastName: string;
   iconPath: string;
+  description: string;
 }
 
 
@@ -25,10 +26,10 @@ function App() {
     <div className="max-w-4xl mx-auto">
       <header className="text-center mb-12" data-id="5"><h1 className="text-4xl font-bold text-gray-900 mb-4" data-id="6">In Memory of Our Fallen Heroes</h1><p className="text-xl text-gray-600" data-id="7">Honoring those who made the ultimate sacrifice for our freedom and security.</p></header>
       <div className="grid  grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 gap-6">
-        {appConfig.map(({firstName,iconPath,lastName}) => {
+        {appConfig.map(({firstName,iconPath,lastName, description}) => {
           const fullName = `${firstName} ${lastName}`;
           return (
-            <Card key={fullName} title={fullName} imgSrc={"/museum-of-memory/" + iconPath}/>
+            <Card key={fullName} title={fullName} imgSrc={"/museum-of-memory/" + iconPath} description={description}/>
       )})}
       </div>
     </div>
