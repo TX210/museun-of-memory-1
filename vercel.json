@@ -1,19 +1,12 @@
 {
     "rewrites": [
         {
-            "source": "/museum-of-memory/((?!static/)(?!api/).*)",
+            "source": "/museum-of-memory/((?!static|favicon\\.ico|logo|manifest\\.json|robots\\.txt|photo|config\\.json).*)",
             "destination": "/index.html"
-        }
-    ],
-    "headers": [
+        },
         {
-            "source": "/manifest.json",
-            "headers": [
-                {
-                    "key": "Content-Type",
-                    "value": "application/json"
-                }
-            ]
+            "source": "/museum-of-memory",
+            "destination": "/index.html"
         }
     ]
 }
