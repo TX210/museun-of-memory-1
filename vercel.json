@@ -1,7 +1,7 @@
 {
     "rewrites": [
         {
-            "source": "/((?!api/).*)",
+            "source": "/museum-of-memory/((?!static/)(?!api/).*)",
             "destination": "/index.html"
         }
     ],
